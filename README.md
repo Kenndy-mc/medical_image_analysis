@@ -1,4 +1,4 @@
-中文：
+#中文：
 # 医学影像分析系统
 
 ## 项目简介
@@ -20,7 +20,9 @@ MIT License
 
 ## 技术支持
 如有任何问题，请联系: jntm20111013@outlook.com
-English:
+
+
+#English:
 # Medical Image Analysis System
 
 ## Project Introduction
